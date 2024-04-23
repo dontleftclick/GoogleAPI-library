@@ -1,0 +1,14 @@
+.review {
+    left: 50%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.review p {
+    margin: 5px 0;
+}
+.review strong {
+    font-size: 2px;
+    font-weight: bold;
+
+}
