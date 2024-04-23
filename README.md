@@ -3,7 +3,9 @@ A localhost library which displays data from google books API and features a rev
 
 Xampp Database setup:
   THe Xampp database must be named "reviewsystems" 
+  
   The singular table is to be named "review"
+  
   3 fields must be called "reviewText", "userName", and "bookTitle" (all text type)
 
 File setup:
